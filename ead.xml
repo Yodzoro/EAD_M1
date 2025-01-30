@@ -1,15 +1,15 @@
 <ead>
   <eadheader repositoryencoding="archon">
-    <eadid countrycode="GB" identifier="gb7-digitisationofcountrysideimages" mainagencycode="7" url="http://archiveshub.jisc.ac.uk/data/gb7-digitisationofcountrysideimages">gb7-digitisationofcountrysideimages</eadid>
+    <eadid countrycode="FR" identifier="01_PharmacieHospitalièredelHôpitalCharrial " mainagencycode="7" url="">gb7-digitisationofcountrysideimages</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>Digitisation of Countryside Images</titleproper>
+        <titleproper>Archives de la Pharmacie Hospitalière de l’Hôpital Charrial </titleproper>
       </titlestmt>
     </filedesc>
     <profiledesc>
       <creation>
-        Exported from Jisc Content and coverted to EAD by Mike Jones and Lee Baylis for the Archives Hub
-        <date>Jan-May 2015</date>
+        Document en EAD créé par FALL AMY and ZHURINA IULIA POUR L'archivage des documents de la Pharmacie Hospitalière de l’Hôpital Charrial
+        <date>Jan 20225</date>
       </creation>
     </profiledesc>
     <revisiondesc>
