@@ -1,0 +1,24 @@
+<ead>
+  <eadheader repositoryencoding="archon">
+    <eadid countrycode="FR" identifier="01_PharmacieHospitalièredelHôpitalCharrial " mainagencycode="7" url="https://moodle.univ-lyon3.fr/course/view.php?id=4245#section-2">01_PharmacieHospitalièredelHôpitalCharrial</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Archives de la Pharmacie Hospitalière de l’Hôpital Charrial </titleproper>
+      </titlestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>
+        Document en EAD créé par FALL AMY and ZHURINA IULIA et IRFA DEWI FATIMA pour L'archivage des documents de l'equipe ADCAPT de la Pharmacie Hospitalière de l’Hôpital Charrial
+        <date>Jan 20225</date>
+      </creation>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2025-01-30</date>
+        <item>Pour le projet des archives structurées des laboratoires de recherche de LYON 1</item>
+      </change>
+    </revisiondesc>
+ </eadheader>
+ <archdesc level="dossier" type="">
+ 
+ </archdesc>
