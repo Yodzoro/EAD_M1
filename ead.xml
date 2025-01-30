@@ -24,6 +24,9 @@
     <unitid countrycode="fr" identifier="PharmacieHospitalièredelHôpitalCharrial" label="archivé">PharmacieHospitalièredelHôpitalCharrial</unitid>
     <unittitle>Archives de la Pharmacie Hospitalière de l’Hôpital Charrial</unittitle>
     <abstract>archivage des documents de l’ADCAPT, équipe de Pharmacie Hospitalière de l’Hôpital Charrial à Francheville</abstract>
+    <langmaterial>
+      <language langcode="fr">Français</language>
+    </langmaterial>
   </did>
   <scopecontent>
     <p>Archive pour laboratoires « Pharmacie Hospitalière de l’Hôpital Charrial ». Comprend trois dossiers distincts :</p>
