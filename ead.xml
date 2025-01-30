@@ -1,6 +1,6 @@
 <ead>
   <eadheader repositoryencoding="archon">
-    <eadid countrycode="FR" identifier="01_PharmacieHospitalièredelHôpitalCharrial " mainagencycode="7" url="">gb7-digitisationofcountrysideimages</eadid>
+    <eadid countrycode="FR" identifier="01_PharmacieHospitalièredelHôpitalCharrial " mainagencycode="7" url="https://moodle.univ-lyon3.fr/course/view.php?id=4245#section-2">01_PharmacieHospitalièredelHôpitalCharrial</eadid>
     <filedesc>
       <titlestmt>
         <titleproper>Archives de la Pharmacie Hospitalière de l’Hôpital Charrial </titleproper>
@@ -8,14 +8,45 @@
     </filedesc>
     <profiledesc>
       <creation>
-        Document en EAD créé par FALL AMY and ZHURINA IULIA POUR L'archivage des documents de la Pharmacie Hospitalière de l’Hôpital Charrial
+        Document en EAD créé par FALL AMY and ZHURINA IULIA et IRFA DEWI FATIMA pour L'archivage des documents de l'equipe ADCAPT de la Pharmacie Hospitalière de l’Hôpital Charrial
         <date>Jan 20225</date>
       </creation>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date>2019-10-01</date>
-        <item>Normalised for publication by Archives Hub</item>
+        <date>2025-01-30</date>
+        <item>Pour le projet des archives structurées des laboratoires de recherche de LYON 1</item>
       </change>
     </revisiondesc>
+
+    <archdesc level="collection" type="productionscientifiquesetcliniques">
+      <did>
+        <unitid countrycode="fr" identifier="PharmacieHospitalièredelHôpitalCharrial" label="archivé">PharmacieHospitalièredelHôpitalCharrial</unitid>
+        <unittitle>Archives de la Pharmacie Hospitalière de l’Hôpital Charrial</unittitle>
+        <abstract>archivage des documents de l’ADCAPT, équipe de Pharmacie Hospitalière de l’Hôpital Charrial à Francheville</abstract>
+      </did>
+  <dsc>
+    <c id="01_Publications" level="dossier">
+        <did>
+         <unitid type="cote">PHAR-FRANC-01</unitid>
+         <unittitle>Les Publications</unittitle>
+         <unitdate normal="2005/2025">21e siècle (date)</unitdate>
+        </did>
+    </c>
+    <c id="02_Workshops" level="dossier">
+      <did> 
+        <unitid type="cote">PHAR-FRANC-02</unitid> 
+        <unittitle>Les Workshops</unittitle>
+        <unitdate normal="2005/2025">21e siècle (date)</unitdate>
+      </did>
+    </c>
+    <c id="03_Manuels_d_adaptation" level="dossier">
+      <did>
+         <unitid type="cote">PHAR-FRANC-03</unitid>
+         <unittitle>Les Manuels d'adaptation</unittitle>
+         <unitdate normal="2005/2025">21e siècle (date)</unitdate>
+      </did>
+    </c>
+  </dsc>
+    </archdesc>
   </eadheader>
