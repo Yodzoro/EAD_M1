@@ -18,7 +18,7 @@
         <item>Pour le projet des archives structurées des laboratoires de recherche de LYON 1</item>
       </change>
     </revisiondesc>
-
+ </eadheader>
     <archdesc level="collection" type="productionscientifiquesetcliniques">
       <did>
         <unitid countrycode="fr" identifier="PharmacieHospitalièredelHôpitalCharrial" label="archivé">PharmacieHospitalièredelHôpitalCharrial</unitid>
@@ -49,4 +49,4 @@
     </c>
   </dsc>
     </archdesc>
-  </eadheader>
+ 
