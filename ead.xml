@@ -1,0 +1,21 @@
+<ead>
+  <eadheader repositoryencoding="archon">
+    <eadid countrycode="GB" identifier="gb7-digitisationofcountrysideimages" mainagencycode="7" url="http://archiveshub.jisc.ac.uk/data/gb7-digitisationofcountrysideimages">gb7-digitisationofcountrysideimages</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Digitisation of Countryside Images</titleproper>
+      </titlestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>
+        Exported from Jisc Content and coverted to EAD by Mike Jones and Lee Baylis for the Archives Hub
+        <date>Jan-May 2015</date>
+      </creation>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2019-10-01</date>
+        <item>Normalised for publication by Archives Hub</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
