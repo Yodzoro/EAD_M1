@@ -19,20 +19,20 @@
       </change>
     </revisiondesc>
  </eadheader>
-    <archdesc level="collection" type="productionscientifiquesetcliniques">
-      <did>
-        <unitid countrycode="fr" identifier="PharmacieHospitalièredelHôpitalCharrial" label="archivé">PharmacieHospitalièredelHôpitalCharrial</unitid>
-        <unittitle>Archives de la Pharmacie Hospitalière de l’Hôpital Charrial</unittitle>
-        <abstract>archivage des documents de l’ADCAPT, équipe de Pharmacie Hospitalière de l’Hôpital Charrial à Francheville</abstract>
-      </did>
-      <scopecontent>
-        <p>Archive pour laboratoires « Pharmacie Hospitalière de l’Hôpital Charrial ». Comprend trois dossiers distincts :</p>
-            <list>
-                <item>Dossier 1 : Les Publications</item>
-                <item>Dossier 2 : Les Workshops</item>
-                <item>Dossier 3 : Les Manuels d'adaptation</item>
-            </list>
-      </scopecontent>
+<archdesc level="collection" type="productionscientifiquesetcliniques">
+  <did>
+    <unitid countrycode="fr" identifier="PharmacieHospitalièredelHôpitalCharrial" label="archivé">PharmacieHospitalièredelHôpitalCharrial</unitid>
+    <unittitle>Archives de la Pharmacie Hospitalière de l’Hôpital Charrial</unittitle>
+    <abstract>archivage des documents de l’ADCAPT, équipe de Pharmacie Hospitalière de l’Hôpital Charrial à Francheville</abstract>
+  </did>
+  <scopecontent>
+    <p>Archive pour laboratoires « Pharmacie Hospitalière de l’Hôpital Charrial ». Comprend trois dossiers distincts :</p>
+      <list>
+        <item>Dossier 1 : Les Publications</item>
+        <item>Dossier 2 : Les Workshops</item>
+        <item>Dossier 3 : Les Manuels d'adaptation</item>
+      </list>
+  </scopecontent>
   <dsc>
     <c id="01_Publications" level="dossier">
         <did>
@@ -65,5 +65,5 @@
       </scopecontent>
     </c>
   </dsc>
-    </archdesc>
+</archdesc>
  
