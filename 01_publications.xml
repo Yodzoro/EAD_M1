@@ -23,10 +23,10 @@
  <did>
       <unitid>PHAR-FRANC-01</unitid>
       <unittitle>Les Publications</unittitle>
-      <unitdate normal="1996-1997">1996-1997</unitdate>
+      <unitdate normal="1992-2017">1992-2017</unitdate>
     </did>
     <scopecontent>
-      <p>commentaires</p>
+      <p>Dossiers contenant les publications du laboratoiresde la Pharmacie Hospitalière de l’Hôpital Charrial.</p>
     </scopecontent>
     <dsc>
      <!--DOC 1-->
@@ -34,7 +34,7 @@
         <did>
           <unitid>BactClin1994Ed1</unitid>
           <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
-          <unitdate normal="1996-1997">1996-1997</unitdate>
+          <unitdate normal="1992">1992</unitdate>
         </did>
         </c>
          <!--DOC 2-->
@@ -42,31 +42,31 @@
         <did>
           <unitid>BactClin1994Ed2</unitid>
           <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
-          <unitdate normal="1996-1997">1996-1997</unitdate>
+          <unitdate normal="1994">1994</unitdate>
         </did>
          <!--DOC 3-->
         </c>
         <c level="item">
         <did>
           <unitid>BactClin2000Ed3</unitid>
-          <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
-          <unitdate normal="1996-1997">1996-1997</unitdate>
+          <unittitle>Pharmacocinétique : Pharmacodynamie Clinique Des Antibiotiques</unittitle>
+          <unitdate normal="2000">2000</unitdate>
         </did>
         </c>
          <!--DOC 4-->
         <c level="item">
         <did>
           <unitid>BactClin2006Ed4</unitid>
-          <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
-          <unitdate normal="1996-1997">1996-1997</unitdate>
+          <unittitle>Pharmacocinétique/Pharmacodynamie Clinique Des Antibiotiques</unittitle>
+          <unitdate normal="2006">2006</unitdate>
         </did>
         </c>
          <!--DOC 5-->
         <c level="item">
        <did>
           <unitid>BactClin2006Ed5</unitid>
-          <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
-          <unitdate normal="1996-1997">1996-1997</unitdate>
+          <unittitle>PHARMACOCINÉTIQUE PHARMACODYNAMIE CLINIQUE DES ANTIBIOTIQUES</unittitle>
+          <unitdate normal="2017">2017</unitdate>
         </did>
 
       </c>
