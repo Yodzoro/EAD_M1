@@ -17,8 +17,7 @@
     <revisiondesc>
       <change>
         <date normal="03-11-1994" type="modification">22-05-1996</date>
-        <item>manuel adaptation
-          Adaptation posologique des antibiotiques</item>
+        <item>manuel adaptation</item>
       </change>
       <change>
         <date normal="28-04-1995">28-04-1995</date>
@@ -33,43 +32,19 @@
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
-   <did>
-      <repository>
-         <corpname source="Répertoire_des_Centres_de_Ressources" authfilenumber="103876101" normal="Médiathèque Jacques-Chirac (Troyes)">Médiathèque Jacques-Chirac (Troyes)</corpname>
-         <address>
-            <addressline>7 rue des Filles Dieu</addressline>
-            <addressline>10000 Troyes</addressline>
-            <addressline>Tél. : 03.25.43.56.20</addressline>
-            <addressline>http://www.mediatheque-jacques-chirac.fr</addressline>
-         </address>
-      </repository>
-      <unitid type="cote">1-1272</unitid>
-      <unittitle>Manuscrits de la médiathèque Jacques-Chirac</unittitle>
-   </did>
-   <accessrestrict>
-      <p>L'accès aux collections patrimoniales est soumis à une autorisation préalable.</p>
-   </accessrestrict>
-   <userestrict>
-      <p>Toute publication de documents inédits doit être notifiée à l'établissement.</p>
-   </userestrict>
-   <prefercite>
-      <p>Médiathèque Jacques-Chirac (Troyes), Ms. X, fol. Y.</p>
-   </prefercite>
-   <dsc>
-        <c level="item">
-            <did>
-                <unitid type="cote">Ms. 1</unitid>
-                [...]
-        </did>
-        [...]
-        </c>
-        <c level="item">
-            <did>
-                <unitid type="cote">Ms. 2</unitid>
-                 [...]
-            </did>
-         [...]
-        </c>
-        [...]   
-</dsc>
+    <did>
+       <unittitle>Adaptation posologique des antibiotiques : Protocole d'utilisation en routine de l'hopital A.Charial</unittitle>
+    </did>
+    <dsc>
+      <c>
+         <c>
+            <c>...</c>
+            <c>...</c>
+         </c>
+         <c>
+            <c>...</c>
+         </c>
+         <c>...</c>
+      </c>
+   </dsc>
 </archdesc>
