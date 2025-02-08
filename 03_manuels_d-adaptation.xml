@@ -20,31 +20,35 @@
         <item>manuel adaptation</item>
       </change>
       <change>
-        <date normal="28-04-1995">28-04-1995</date>
-        <item>manuel logiciel adaptation
-          Guide d'utilisation des logiciels de pharmacocinetique</item>
+        <date normal="26-04-1995">26-04-1995</date>
+        <item>saisie adaptation</item>
       </change>
       <change>
-        <date normal="26-04-1995">26-04-1995</date>
-        <item>saisie adaptation
-          Guide pour la saisie des données sur le logiciel pastrx</item>
+        <date normal="28-04-1995">28-04-1995</date>
+        <item>manuel logiciel adaptation</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <archdesc level="collection">
+  <archdesc level="fonds">
     <did>
-       <unittitle>Adaptation posologique des antibiotiques : Protocole d'utilisation en routine de l'hopital A.Charial</unittitle>
+         <unittitle>les manuels d'adaptation</unittitle>
     </did>
     <dsc>
-      <c>
-         <c>
-            <c>...</c>
-            <c>...</c>
-         </c>
-         <c>
-            <c>...</c>
-         </c>
-         <c>...</c>
-      </c>
-   </dsc>
+          <c level="item-1" id=ADCAPT-USC-IMIA>
+            <did>
+              <unittitle>Adaptation posologique des antibiotiques : Protocole d'utilisation en routine de l'hopital A.Charial<persname>Vincent</persname></unittitle>
+            </did>
+    </dsc>
+    <dsc>
+          <c level="item-2">
+            <did>
+              <unittitle>Guide pour la saisie des données sur le logiciel pastrx</unittitle>
+            </did>
+    </dsc>
+    <dsc>
+          <c level="item-3">
+            <did>
+              <unittitle>Guide d'utilisation des logiciels de pharmacocinetique</unittitle>
+            </did>
+    </dsc>
 </archdesc>
