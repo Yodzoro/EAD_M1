@@ -5,22 +5,71 @@
       <titlestmt>
         <titleproper>Archives de la Pharmacie Hospitalière de l’Hôpital Charrial </titleproper>
         <subtitle>les manuels d'adaptation</subtitle>
-        <author>Irfa Dewi FATIMA, étudiante à l'université Jean Moulin Lyon 3</author>
+        <author>Irfa Dewi FATIMA, étudiante Master 1 Information documentation l'université Jean Moulin Lyon 3</author>
+        <date>février 2025</date>
       </titlestmt>
     </filedesc>
     <profiledesc>
-      <creation>
-        Document en EAD créé par FALL AMY and ZHURINA IULIA et FATIMA IRFA DEWI pour L'archivage des documents de l'equipe ADCAPT de la Pharmacie Hospitalière de l’Hôpital Charrial
-        <date>Jan 20225</date>
-      </creation>
+      <creation>Document en EAD créé par FALL AMY and ZHURINA IULIA et FATIMA IRFA DEWI pour L'archivage des documents de l'equipe ADCAPT de la Pharmacie Hospitalière de l’Hôpital Charrial</creation>
+        <langusage>Document rédigé en <language langcode="fr">français</language>.</langusage>
+        <descrules>Rédigé conformément au manuel de document des manuels d'adaptation (USC Pack collection of PC Programs, version 10.0)</descrules>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date>2025-01-30</date>
-        <item>Pour le projet des archives structurées des laboratoires de recherche de LYON 1</item>
+        <date normal="03-11-1994" type="modification">22-05-1996</date>
+        <item>manuel adaptation
+          Adaptation posologique des antibiotiques</item>
+      </change>
+      <change>
+        <date normal="28-04-1995">28-04-1995</date>
+        <item>manuel logiciel adaptation
+          Guide d'utilisation des logiciels de pharmacocinetique</item>
+      </change>
+      <change>
+        <date normal="26-04-1995">26-04-1995</date>
+        <item>saisie adaptation
+          Guide pour la saisie des données sur le logiciel pastrx</item>
       </change>
     </revisiondesc>
- </eadheader>
- <archdesc level="dossier" type="manuels">
- 
- </archdesc>
+  </eadheader>
+  <archdesc level="collection">
+   <did>
+      <repository>
+         <corpname source="Répertoire_des_Centres_de_Ressources" authfilenumber="103876101" normal="Médiathèque Jacques-Chirac (Troyes)">Médiathèque Jacques-Chirac (Troyes)</corpname>
+         <address>
+            <addressline>7 rue des Filles Dieu</addressline>
+            <addressline>10000 Troyes</addressline>
+            <addressline>Tél. : 03.25.43.56.20</addressline>
+            <addressline>http://www.mediatheque-jacques-chirac.fr</addressline>
+         </address>
+      </repository>
+      <unitid type="cote">1-1272</unitid>
+      <unittitle>Manuscrits de la médiathèque Jacques-Chirac</unittitle>
+   </did>
+   <accessrestrict>
+      <p>L'accès aux collections patrimoniales est soumis à une autorisation préalable.</p>
+   </accessrestrict>
+   <userestrict>
+      <p>Toute publication de documents inédits doit être notifiée à l'établissement.</p>
+   </userestrict>
+   <prefercite>
+      <p>Médiathèque Jacques-Chirac (Troyes), Ms. X, fol. Y.</p>
+   </prefercite>
+   <dsc>
+        <c level="item">
+            <did>
+                <unitid type="cote">Ms. 1</unitid>
+                [...]
+        </did>
+        [...]
+        </c>
+        <c level="item">
+            <did>
+                <unitid type="cote">Ms. 2</unitid>
+                 [...]
+            </did>
+         [...]
+        </c>
+        [...]   
+</dsc>
+</archdesc>
