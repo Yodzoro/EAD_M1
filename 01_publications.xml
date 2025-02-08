@@ -29,6 +29,7 @@
       <p>commentaires</p>
     </scopecontent>
     <dsc>
+     <!--DOC 1-->
       <c level="item">
         <did>
           <unitid>BactClin1994Ed1</unitid>
@@ -36,12 +37,14 @@
           <unitdate normal="1996-1997">1996-1997</unitdate>
         </did>
         </c>
+         <!--DOC 2-->
         <c level="item">
         <did>
           <unitid>BactClin1994Ed2</unitid>
           <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
           <unitdate normal="1996-1997">1996-1997</unitdate>
         </did>
+         <!--DOC 3-->
         </c>
         <c level="item">
         <did>
@@ -50,6 +53,7 @@
           <unitdate normal="1996-1997">1996-1997</unitdate>
         </did>
         </c>
+         <!--DOC 4-->
         <c level="item">
         <did>
           <unitid>BactClin2006Ed4</unitid>
@@ -57,6 +61,7 @@
           <unitdate normal="1996-1997">1996-1997</unitdate>
         </did>
         </c>
+         <!--DOC 5-->
         <c level="item">
        <did>
           <unitid>BactClin2006Ed5</unitid>
