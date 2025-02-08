@@ -35,21 +35,29 @@
           <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
           <unitdate normal="">z</unitdate>
         </did>
+        </c>
+        <c level="item">
         <did>
           <unitid>BactClin1994Ed2</unitid>
           <unittitle>1</unittitle>
           <unitdate normal="">z</unitdate>
         </did>
+        </c>
+        <c level="item">
         <did>
           <unitid>BactClin2000Ed3</unitid>
           <unittitle>1</unittitle>
           <unitdate normal="">z</unitdate>
         </did>
+        </c>
+        <c level="item">
         <did>
           <unitid>BactClin2006Ed4</unitid>
           <unittitle>1</unittitle>
           <unitdate normal="">z</unitdate>
         </did>
+        </c>
+        <c level="item">
        <did>
           <unitid>BactClin2006Ed5</unitid>
           <unittitle>1</unittitle>
