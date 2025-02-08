@@ -14,7 +14,7 @@
     </profiledesc>
     <revisiondesc>
       <change>
-        <date>2025-01-30</date>
+        <date>2025-02-08</date>
         <item>Pour le projet des archives structurées des laboratoires de recherche de LYON 1</item>
       </change>
     </revisiondesc>
@@ -49,18 +49,20 @@
           <!--Liens vers le fichier-->
           <dao href="01_publications.xml" actuate="onrequest" show="new" role="reference"/>
       </c>
+
       <c id="02_Workshops" level="dossier">
         <did> 
           <unitid type="cote">PHAR-FRANC-02</unitid> 
           <unittitle>Les Workshops</unittitle>
-          <unitdate normal="2005/2025">21e siècle (date)</unitdate>
+          <unitdate normal="1996/1997">20e siècle (1996-1997)</unitdate>
         </did>
         <scopecontent> 
-        <p>Il s'agit du dossier des programmes des rencontres sur la pharmaco-cinétique.</p>
+          <p>Il s'agit du dossier des programmes des rencontres sur la pharmaco-cinétique.</p>
         </scopecontent>
         <!--Liens vers le fichier-->
         <dao href="02_workshops.xml" actuate="onrequest" show="new" role="reference"/>
       </c>
+
       <c id="03_Manuels_d_adaptation" level="dossier">
         <did>
            <unitid type="cote">PHAR-FRANC-03</unitid>
