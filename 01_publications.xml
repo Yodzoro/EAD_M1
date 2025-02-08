@@ -20,5 +20,41 @@
     </revisiondesc>
  </eadheader>
  <archdesc level="dossier" type="publications">
- 
+ <did>
+      <unitid>BactClin1992Ed1</unitid>
+      <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
+      <unitdate normal=""></unitdate>
+    </did>
+    <scopecontent>
+      <p>commentaires</p>
+    </scopecontent>
+    <dsc>
+      <c level="item">
+        <did>
+          <unitid>BactClin1994Ed1</unitid>
+          <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
+          <unitdate normal="">z</unitdate>
+        </did>
+        <did>
+          <unitid>BactClin1994Ed2</unitid>
+          <unittitle>1</unittitle>
+          <unitdate normal="">z</unitdate>
+        </did>
+        <did>
+          <unitid>BactClin2000Ed3</unitid>
+          <unittitle>1</unittitle>
+          <unitdate normal="">z</unitdate>
+        </did>
+        <did>
+          <unitid>BactClin2006Ed4</unitid>
+          <unittitle>1</unittitle>
+          <unitdate normal="">z</unitdate>
+        </did>
+       <did>
+          <unitid>BactClin2006Ed5</unitid>
+          <unittitle>1</unittitle>
+          <unitdate normal="">z</unitdate>
+        </did>
+
+      </c>
  </archdesc>
