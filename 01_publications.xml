@@ -22,8 +22,8 @@
  <archdesc level="dossier" type="publications">
  <did>
       <unitid>PHAR-FRANC-01</unitid>
-      <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
-      <unitdate normal=""></unitdate>
+      <unittitle>Les Publications</unittitle>
+      <unitdate normal="1996-1997">1996-1997</unitdate>
     </did>
     <scopecontent>
       <p>commentaires</p>
@@ -33,35 +33,35 @@
         <did>
           <unitid>BactClin1994Ed1</unitid>
           <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
-          <unitdate normal="">z</unitdate>
+          <unitdate normal="1996-1997">1996-1997</unitdate>
         </did>
         </c>
         <c level="item">
         <did>
           <unitid>BactClin1994Ed2</unitid>
-          <unittitle>1</unittitle>
-          <unitdate normal="">z</unitdate>
+          <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
+          <unitdate normal="1996-1997">1996-1997</unitdate>
         </did>
         </c>
         <c level="item">
         <did>
           <unitid>BactClin2000Ed3</unitid>
-          <unittitle>1</unittitle>
-          <unitdate normal="">z</unitdate>
+          <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
+          <unitdate normal="1996-1997">1996-1997</unitdate>
         </did>
         </c>
         <c level="item">
         <did>
           <unitid>BactClin2006Ed4</unitid>
-          <unittitle>1</unittitle>
-          <unitdate normal="">z</unitdate>
+          <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
+          <unitdate normal="1996-1997">1996-1997</unitdate>
         </did>
         </c>
         <c level="item">
        <did>
           <unitid>BactClin2006Ed5</unitid>
-          <unittitle>1</unittitle>
-          <unitdate normal="">z</unitdate>
+          <unittitle>Pharmacocinétique Clinique Appliquée Aux Antibiotiques</unittitle>
+          <unitdate normal="1996-1997">1996-1997</unitdate>
         </did>
 
       </c>
