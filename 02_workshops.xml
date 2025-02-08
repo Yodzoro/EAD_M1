@@ -14,7 +14,7 @@
     </profiledesc>
     <revisiondesc>
       <change>
-        <date>2025-01-30</date>
+        <date>2025-02-08</date>
         <item>Pour le projet des archives structurées des laboratoires de recherche de LYON 1</item>
       </change>
     </revisiondesc>
@@ -29,12 +29,69 @@
       <p>commentaires</p>
     </scopecontent>
     <dsc>
+      <!--DOC 1-->
       <c level="item">
         <did>
-          <unitid>Work-001</unitid>
+          <unitid>workshopcouverture</unitid>
           <unittitle>1</unittitle>
           <unitdate normal="">z</unitdate>
         </did>
       </c>
-      
+      <!--DOC 2-->
+      <c level="item">
+        <did>
+          <unitid>annonceworshop1</unitid>
+          <unittitle>1</unittitle>
+          <unitdate normal="">z</unitdate>
+        </did>
+      </c>
+      <!--DOC 3-->
+      <c level="item">
+        <did>
+          <unitid>annonceworshop2</unitid>
+          <unittitle>1</unittitle>
+          <unitdate normal="">z</unitdate>
+        </did>
+      </c>
+      <!--DOC 4-->
+      <c level="item">
+        <did>
+          <unitid>annonceworshop3</unitid>
+          <unittitle>1</unittitle>
+          <unitdate normal="">z</unitdate>
+        </did>
+      </c>
+      <!--DOC 5-->
+      <c level="item">
+        <did>
+          <unitid>annonceworshop6</unitid>
+          <unittitle>1</unittitle>
+          <unitdate normal="">z</unitdate>
+        </did>
+      </c>
+      <!--DOC 6-->
+      <c level="item">
+        <did>
+          <unitid>annonceworshop7</unitid>
+          <unittitle>1</unittitle>
+          <unitdate normal="">z</unitdate>
+        </did>
+      </c>
+      <!--DOC 7-->
+      <c level="item">
+        <did>
+          <unitid>workshoppage1</unitid>
+          <unittitle>1</unittitle>
+          <unitdate normal="">z</unitdate>
+        </did>
+      </c>
+      <!--DOC 8-->
+      <c level="item">
+        <did>
+          <unitid>workshoppage2</unitid>
+          <unittitle>1</unittitle>
+          <unitdate normal="">z</unitdate>
+        </did>
+      </c>
+    <dsc> 
  </archdesc>
