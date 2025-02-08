@@ -23,75 +23,76 @@
    <did>
       <unitid>PHAR-FRANC-02</unitid>
       <unittitle>Les Workshops</unittitle>
-      <unitdate normal=""></unitdate>
+      <unitdate normal="1997-03-20/1997-03-21">March 20-21, 1997</unitdate>
     </did>
     <scopecontent>
-      <p>commentaires</p>
+      <p>CLINICAL AND RESEARCH APPLICATIONS TO ANTIMICROBIAL, ANTIVIRAL, ANTICANCER, AND CARDIOVASCULAR THERAPY</p>
     </scopecontent>
     <dsc>
       <!--DOC 1-->
       <c level="item">
         <did>
           <unitid>workshopcouverture</unitid>
-          <unittitle>1</unittitle>
-          <unitdate normal="">z</unitdate>
+          <unittitle>USC ABSTRACTS</unittitle>
+          <unitdate normal="1997-03-20/1997-03-21">March 20-21, 1997</unitdate>
         </did>
       </c>
       <!--DOC 2-->
       <c level="item">
         <did>
           <unitid>annonceworshop1</unitid>
-          <unittitle>1</unittitle>
-          <unitdate normal="">z</unitdate>
+          <unittitle>VIII USC-ADCAPT-IMIA WORKSHOP A SECOND IMIA SATELLITE WORKING CONFERENCE on PHARMACO-INFORMATICS (page 1)</unittitle>
+          <unitdate normal="1997-08-13">13 août 1996</unitdate>
         </did>
       </c>
       <!--DOC 3-->
       <c level="item">
         <did>
           <unitid>annonceworshop2</unitid>
-          <unittitle>1</unittitle>
-          <unitdate normal="">z</unitdate>
+          <unittitle>VIII USC-ADCAPT-IMIA WORKSHOP A SECOND IMIA SATELLITE WORKING CONFERENCE on PHARMACO-INFORMATICS (page 2)</unittitle>
+          <unitdate normal="1997-08-13">13 août 1996</unitdate>
         </did>
       </c>
       <!--DOC 4-->
       <c level="item">
         <did>
           <unitid>annonceworshop3</unitid>
-          <unittitle>1</unittitle>
-          <unitdate normal="">z</unitdate>
+          <unittitle>VIII USC-ADCAPT-IMIA WORKSHOP A SECOND IMIA SATELLITE WORKING CONFERENCE on PHARMACO-INFORMATICS (page 3)</unittitle>
+          <unitdate normal="1997-08-13">13 août 1996</unitdate>
         </did>
       </c>
       <!--DOC 5-->
       <c level="item">
         <did>
           <unitid>annonceworshop6</unitid>
-          <unittitle>1</unittitle>
-          <unitdate normal="">z</unitdate>
+          <unittitle>VIII USC-ADCAPT-IMIA WORKSHOP A SECOND IMIA SATELLITE WORKING CONFERENCE on PHARMACO-INFORMATICS (page 6)</unittitle>
+          <unitdate normal="1997-08-13">13 août 1996</unitdate>
         </did>
       </c>
       <!--DOC 6-->
       <c level="item">
         <did>
           <unitid>annonceworshop7</unitid>
-          <unittitle>1</unittitle>
-          <unitdate normal="">z</unitdate>
+          <unittitle>VIII USC-ADCAPT-IMIA WORKSHOP A SECOND IMIA SATELLITE WORKING CONFERENCE on PHARMACO-INFORMATICS (page 7)</unittitle>
+          <unitdate normal="1997-08-13">13 août 1996</unitdate>
         </did>
       </c>
       <!--DOC 7-->
       <c level="item">
         <did>
           <unitid>workshoppage1</unitid>
-          <unittitle>1</unittitle>
-          <unitdate normal="">z</unitdate>
+          <unittitle>CONTENTS - USC ABSTRACTS (page 1)</unittitle>
+          <unitdate normal="1997-03-20/1997-03-21">March 20-21, 1997</unitdate>
         </did>
       </c>
       <!--DOC 8-->
       <c level="item">
         <did>
           <unitid>workshoppage2</unitid>
-          <unittitle>1</unittitle>
-          <unitdate normal="">z</unitdate>
+          <unittitle>CONTENTS - USC ABSTRACTS (page 2)</unittitle>
+          <unitdate normal="1997-03-20/1997-03-21">March 20-21, 1997</unitdate>
         </did>
       </c>
     <dsc> 
  </archdesc>
+</ead>
