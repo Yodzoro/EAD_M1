@@ -20,5 +20,21 @@
     </revisiondesc>
  </eadheader>
  <archdesc level="dossier" type="workshops">
- 
+   <did>
+      <unitid>PHAR-FRANC-01</unitid>
+      <unittitle>Les Workshops</unittitle>
+      <unitdate normal=""></unitdate>
+    </did>
+    <scopecontent>
+      <p>commentaires</p>
+    </scopecontent>
+    <dsc>
+      <c level="item">
+        <did>
+          <unitid>Work-001</unitid>
+          <unittitle>1</unittitle>
+          <unitdate normal="">z</unitdate>
+        </did>
+      </c>
+      
  </archdesc>
