@@ -46,6 +46,8 @@
           <scopecontent>
           <p>Les publications depuis les débuts de la pharmaco-cinétique de population jusqu’à aujourd’hui </p>
           </scopecontent>
+          <!--Liens vers le fichier-->
+          <dao href="01_publications.xml" actuate="onrequest" show="new" role="reference"/>
       </c>
       <c id="02_Workshops" level="dossier">
         <did> 
@@ -56,6 +58,8 @@
         <scopecontent> 
         <p>Il s'agit du dossier des programmes des rencontres sur la pharmaco-cinétique.</p>
         </scopecontent>
+        <!--Liens vers le fichier-->
+        <dao href="02_workshops.xml" actuate="onrequest" show="new" role="reference"/>
       </c>
       <c id="03_Manuels_d_adaptation" level="dossier">
         <did>
@@ -66,6 +70,8 @@
         <scopecontent>
           <p>Des documents issus du protocole de soin de l’adaptation de posologie. </p>
         </scopecontent>
+        <!--Liens vers le fichier-->
+        <dao href="03_manuels_d-adaptation.xml" actuate="onrequest" show="new" role="reference"/>
       </c>
     </dsc>
   </archdesc>
