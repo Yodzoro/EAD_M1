@@ -37,18 +37,23 @@
           <c level="item-1" id=ADCAPT-USC-IMIA>
             <did>
               <unittitle>Adaptation posologique des antibiotiques : Protocole d'utilisation en routine de l'hopital A.Charial<persname>Vincent</persname></unittitle>
+              <unitdate>03-11-1994</unitdate>
+              <origination><persname normal="Vincent">Vincent</persname></origination>
+              <repository><corpname>Hopital A. Charial</corpname></repository>
             </did>
     </dsc>
     <dsc>
           <c level="item-2">
             <did>
               <unittitle>Guide pour la saisie des données sur le logiciel pastrx</unittitle>
+              <unitdate>26-04-1995</unitdate>
             </did>
     </dsc>
     <dsc>
           <c level="item-3">
             <did>
               <unittitle>Guide d'utilisation des logiciels de pharmacocinetique</unittitle>
+              <unitdate>28-04-1995</unitdate>
             </did>
     </dsc>
 </archdesc>
