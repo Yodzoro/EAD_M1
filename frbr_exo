@@ -2,15 +2,15 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix frbr: <http://purl.org/vocab/frbr/core#> .
 
-
 <https://hal.science/hal-04131599/>
     a frbr:Work ;
-        dc:title "Le corpus Machine Translation Une exploration diachronique des (méta)données Istex";
-        dc:creator "Mathilde Huguin", "Sabine Barreau";
-        dc:subject "Analyse de documents scientifiques";
-        dcterms:abstract "Le corpus Machine Translation se compose de publications scientifiques issues du réservoir Istex.
-        Conçu comme un cas d’usage, il permet d’explorer l’histoire de la traduction automatique au travers
-        des métadonnées et des textes intégraux disponibles pour chacun de ses documents. D’une part, les
-        métadonnées permettent d’apporter un premier regard sur le paysage de la traduction automatique
-        grâce à des tableaux de bord bibliométrique";
-        dcterms:issued "20-06-2023".
+    dc:title "Le corpus Machine Translation Une exploration diachronique des (méta)données Istex" ;
+    dc:creator "Mathilde Huguin, Sabine Barreau" ;
+    dc:subject "Analyse de documents scientifiques" ;
+    dcterms:abstract "Le corpus Machine Translation se compose de publications scientifiques issues du réservoir Istex. Conçu comme un cas d’usage, il permet d’explorer l’histoire de la traduction automatique au travers des métadonnées et des textes intégraux disponibles pour chacun de ses documents. D’une part, les métadonnées permettent d’apporter un premier regard sur le paysage de la traduction automatique grâce à des tableaux de bord bibliométrique" ;
+    dcterms:issued "2023-06-20" .
+
+<https://aclanthology.org/2023.jeptalnrecital-arts.0.pdf>
+    a frbr:Manifestation ;
+    dc:title "18e Conférence en Recherche d’Information et Applications 16e Rencontres Jeunes Chercheurs en RI 30e Conférence sur le Traitement Automatique des Langues Naturelles 25e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues(CORIA-TALN)" ;
+    dc:subject "Analyse et Recherche de Textes Scientifiques" .
