@@ -12,7 +12,6 @@
     <profiledesc>
       <creation>Document en EAD créé par FALL AMY and ZHURINA IULIA et FATIMA IRFA DEWI pour L'archivage des documents de l'equipe ADCAPT de la Pharmacie Hospitalière de l’Hôpital Charrial</creation>
         <langusage>Document rédigé en <language langcode="fr">français</language>
-        <descrules>Rédigé conformément au manuel de document des manuels d'adaptation (USC Pack collection of PC Programs, version 10.0)</descrules>
     </profiledesc>
     <revisiondesc>
       <change>
@@ -38,7 +37,6 @@
             <did>
               <unittitle>Adaptation posologique des antibiotiques : Protocole d'utilisation en routine de l'hopital A.Charial<persname>Vincent</persname></unittitle>
               <unitdate>03-11-1994</unitdate>
-              <origination><persname normal="Vincent">Vincent</persname></origination>
               <repository><corpname>Hopital A. Charial</corpname></repository>
             </did>
     </dsc>
