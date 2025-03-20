@@ -22,6 +22,8 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:source>http://redac.univ-tlse2.fr/applications/talismane/talismane.html</dc:source>
 <dc:language>anglais</dc:language>
 <dcterms:isPartOf>https://theses.hal.science/tel-00979681</dcterms:isPartOf>
+<dcterms:isReferencedBy>https://www.ortolang.fr/market/tools/talismane-frantext-modern</dcterms:isReferencedBy>
+<dcterms:hasVersion>Github</dcterms:hasVersion>
 <dc:coverage>français</dc:coverage>
 <dc:coverage>anglais</dc:coverage>
 <dc:rights>Affero GPL v3</dc:rights>
