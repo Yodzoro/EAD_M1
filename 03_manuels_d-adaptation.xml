@@ -33,26 +33,54 @@
          <unittitle>les manuels d'adaptation</unittitle>
     </did>
     <dsc>
-          <c level="item-1" id=ADCAPT-USC-IMIA>
+          <c level="item">
             <did>
+              <unitid>manueladaptation1</unitid>
               <unittitle>Adaptation posologique des antibiotiques : Protocole d'utilisation en routine de l'hopital A.Charial<persname>Vincent</persname></unittitle>
               <unitdate>03-11-1994</unitdate>
+              <author><persname normal="Vincent">Vincent</persname></author> 
               <repository><corpname>Hopital A. Charial</corpname></repository>
             </did>
-    </dsc>
-    <dsc>
-          <c level="item-2">
+            </c>
+          <c level="item">
             <did>
+              <unitid>manueladaptation2</unitid>
               <unittitle>Guide pour la saisie des données sur le logiciel pastrx</unittitle>
               <unitdate>26-04-1995</unitdate>
             </did>
-    </dsc>
-    <dsc>
-          <c level="item-3">
+            </c>
+    
+          <c level="item">
             <did>
-              <unittitle>Guide d'utilisation des logiciels de pharmacocinetique</unittitle>
+              <unitid>manuellogicieladaptation1</unitid>
+              <unittitle>Guide d'utilisation des logiciels de pharmacocinetique(page 1)</unittitle>
               <unitdate>28-04-1995</unitdate>
             </did>
+            </c>
+    
+          <c level="item">
+            <did>
+              <unitid>manuellogicieladaptation2</unitid>
+              <unittitle>Guide d'utilisation des logiciels de pharmacocinetique(page 2)</unittitle>
+              <unitdate>28-04-1995</unitdate> 
+            </did>
+            </c>
+    
+          <c level="item">
+            <did>
+              <unitid>saisieadaptation1</unitid>
+              <unittitle>Guide pour la saisie des données sur le logiciel Pastrix(page 1)</unittitle>
+              <unitdate>26-04-1995</unitdate>
+            </did>
+            </c>
+    
+          <c level="item">
+            <did>
+              <unitid>saisieadaptation2</unitid>
+              <unittitle>Guide d'utilisation des logiciels de pharmacocinetique(page 5)</unittitle>
+              <unitdate>26-04-1995</unitdate>
+            </did>
+            </c>
     </dsc>
   </archdesc>
 </ead>
