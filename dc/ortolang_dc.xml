@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Modèle Talismane pour textes littéraires en français moderne | ORTOLANG</dc:title>
+<dc:creator>Sandrine Ollinger</dc:creator>
+<dc:subject>POS tagger</dc:subject>
+<dc:subject>parties du discours</dc:subject>
+<dc:subject>étiquetage</dc:subject>
+<dc:subject>français moderne</dc:subject>
+<dc:subject>littérature</dc:subject>
+<dc:subject>Frantext</dc:subject>
+<dc:description>Nous diffusons ici un entraînement du module d'étiquetage en parties du discours du logiciel Talismane réalisé au sein du laboratoire ATILF lors de la campagne de catégorisation de l'ensemble des</dc:description>
+<dc:publisher>ATILF | Analyse et traitement informatique de la langue française</dc:publisher>
+<dc:contributor>Sandrine Ollinger</dc:contributor>
+<dc:contributor>Lolita Bérard</dc:contributor>
+<dc:contributor>Isabelle Clément</dc:contributor>
+<dc:contributor>Matthieu Delabarre</dc:contributor>
+<dc:contributor>Stéphane Tiv</dc:contributor>
+<dc:contributor>Clémence Urtebize</dc:contributor>
+<dc:contributor>Christophe Benzitoun</dc:contributor>
+<dc:contributor>Ulrike Fleury</dc:contributor>
+<dc:contributor>Bertrand Gaiffe</dc:contributor>
+<dc:contributor>Véronique Montémont</dc:contributor>
+<dc:contributor>Etienne Petitjean</dc:contributor>
+<dc:contributor>Gilles Souvay</dc:contributor>
+<dcterms:created>09/07/2018</dcterms:created>
+<dc:type>Logiciel</dc:type>
+<dc:format>Texte</dc:format>
+<dc:format>CoNLL</dc:format>
+<dc:source>https://www.ortolang.fr/market/tools/talismane-frantext-modern</dc:source>
+<dc:language>français</dc:language>
+<dcterms:isPartOf>https://theses.hal.science/tel-00979681</dcterms:isPartOf>
+<dc:coverage>français</dc:coverage>
+<dc:rights>Libre</dc:rights>
+<dcterms:audience>public</dcterms:audience>
+
+</metadata>
