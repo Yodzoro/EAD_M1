@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>REDAC : Talismane</dc:title>
+<dc:creator>CLLE-ERSS/Franck Sajous</dc:creator>
+<dc:creator>Assaf Urieli</dc:creator>
+<dc:subject>tokenizer</dc:subject>
+<dc:subject>analyse syntaxique</dc:subject>
+<dc:subject>dependency-parser</dc:subject>
+<dc:subject>nlp-parsing</dc:subject>
+<dc:subject>nlp-machine-learning</dc:subject>
+<dc:subject>pos-tagger</dc:subject>
+<dc:subject>sentence-boundary-detection</dc:subject>
+<dc:description>L'outil <b>Talismane</b>  est un analyseur syntaxique développé par Assaf Urieli dans le cadre de sa thèse au sein du laboratoire CLLE-ERSS, sous la direction de Ludovic Tanguy. Il est écrit intégralement en Java&nbsp;: il fonctionne donc sur tous les systèmes d'exploitation et est facilement intégrable à d'autres applications.</dc:description>
+<dc:publisher>Université de Toulouse II-Le Mirail</dc:publisher>
+<dc:date>17/12/2013</dc:date>
+<dc:type>Portail (article)</dc:type>
+<dc:format>Site Web</dc:format>
+<dc:source>http://redac.univ-tlse2.fr/applications/talismane/talismane.html</dc:source>
+<dc:language>anglais</dc:language>
+<dcterms:isPartOf>https://theses.hal.science/tel-00979681</dcterms:isPartOf>
+<dc:coverage>français</dc:coverage>
+<dc:coverage>anglais</dc:coverage>
+<dc:rights>Affero GPL v3</dc:rights>
+<dcterms:audience>public</dcterms:audience>
+
+</metadata>
