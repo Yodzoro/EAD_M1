@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>talismane</dc:title>
+<dc:creator>Assaf Urieli</dc:creator>
+<dc:subject>tokenizer</dc:subject>
+<dc:subject>analyse syntaxique</dc:subject>
+<dc:subject>dependency-parser</dc:subject>
+<dc:subject>nlp-parsing</dc:subject>
+<dc:subject>nlp-machine-learning</dc:subject>
+<dc:subject>pos-tagger</dc:subject>
+<dc:subject>sentence-boundary-detection</dc:subject>
+<dc:description>Talismane is a natural language processing framework with sentence detector, tokeniser, pos-tagger and dependency syntax parser. Current available language packs include French (standard and Universal Dependencies) and English.</dc:description>
+<dc:publisher>github</dc:publisher>
+<dc:contributor>Lucas Satabin</dc:contributor>
+<dc:contributor>Richard Eckart de Castilho</dc:contributor>
+<dc:contributor>Chen Zhang</dc:contributor>
+<dc:contributor>Jean-Philippe Fauconnier</dc:contributor>
+<dcterms:created>2014/09/04</dcterms:created>
+<dcterms:modified>2022/03/26</dcterms:modified>
+<dc:type>Logiciel</dc:type>
+<dc:format>Java</dc:format>
+<dc:source>https://github.com/joliciel-informatique/talismane</dc:source>
+<dc:language>anglais</dc:language>
+<dcterms:isPartOf>https://theses.hal.science/tel-00979681</dcterms:isPartOf>
+<dc:coverage>anglais</dc:coverage>
+<dc:coverage>français</dc:coverage>
+<dcterms:license> AGPL-3.0 license</dcterms:license>
+<dcterms:audience>public</dcterms:audience>
+
+</metadata>
