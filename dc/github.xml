@@ -13,7 +13,8 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:subject>nlp-machine-learning</dc:subject>
 <dc:subject>pos-tagger</dc:subject>
 <dc:subject>sentence-boundary-detection</dc:subject>
-<dc:description>Talismane is a natural language processing framework with sentence detector, tokeniser, pos-tagger and dependency syntax parser. Current available language packs include French (standard and Universal Dependencies) and English.</dc:description>
+<dc:description>Talismane is a natural language processing framework with sentence detector, tokeniser, pos-tagger and dependency syntax parser. 
+  Current available language packs include French (standard and Universal Dependencies) and English.</dc:description>
 <dc:publisher>github</dc:publisher>
 <dc:contributor>Lucas Satabin</dc:contributor>
 <dc:contributor>Richard Eckart de Castilho</dc:contributor>
