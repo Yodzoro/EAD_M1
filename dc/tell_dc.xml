@@ -22,6 +22,9 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:format>PDF</dc:format>
 <dc:identifier>tel-00979681</dc:identifier>
 <dc:language>anglais</dc:language>
+<dc:relation>http://redac.univ-tlse2.fr/applications/talismane/talismane.html</dc:relation>
+<dcterms:hasVersion>Github</dcterms:hasVersion>
+<dcterms:hasVersion>https://www.ortolang.fr/market/tools/talismane-frantext-modern</dcterms:hasVersion>
 <dc:coverage>anglais</dc:coverage>
 <dc:coverage>français</dc:coverage>
 <dc:rights>Public Domain</dc:rights>
