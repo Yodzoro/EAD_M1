@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Analyse syntaxique robuste du français : concilier méthodes statistiques et connaissances linguistiques dans l’outil Talismane</dc:title>
+<dc:creator>Assaf Urieli</dc:creator>
+<dc:subject>analyse syntaxique</dc:subject>
+<dc:subject>étiquetage morphosyntaxique</dc:subject>
+<dc:subject>apprentissage automatique supervisé</dc:subject>
+<dc:subject>syntaxe française</dc:subject>
+<dc:subject>TAL</dc:subject>
+<dc:subject>TALN</dc:subject>
+<dc:subject>traitement automatique du langage naturel</dc:subject>
+<dc:description>Dans cette thèse, nous explorons l'analyse syntaxique robuste statistique du français. Notre principal souci est de trouver des méthodes qui permettent au linguiste d'injecter des connaissances et/ou des ressources linguistiques dans un moteur statistique afin d'améliorer les résultats pour certains phénomènes spécifiques. D'abord, nous décrivons la schéma d'annotation en dépendances du français, et les algorithmes capables de produire cette annotation, en particulier le parsing par transitions. Après avoir exploré les algorithmes d'apprentissage automatique supervisé pour les problèmes de classification en TAL, nous présentons l'analyseur syntaxique Talismane, développé dans le cadre de cette thèse, et comprennant quatre modules statistiques - le découpage en phrases, la ségmentation en mots, l'étiquettage morpho-syntaxique et le parsing - ainsi que le diverses ressources linguistiques utilisées par le modèle de base. Nos premières expériences tentent d'identifier la meilleure configuration de base parmi des nombreux configurations possibles. Ensuite, nous explorons les améliorations apportées par la recherche par faisceau et la propagation du faisceau. Finalement, nous présentons une série d'expériences dont le but est de corriger des erreurs linguistiques spécifiques au moyen des traits ciblés. Une de nos innovations est l'introduction des règles qui imposent ou interdisent certaines décisions locale, permettant ainsi de contourner le modèle statistique. Nous explorons l'utilisation de règles pour les erreurs que les traits n'ont pu corriger. Finalement, nous présentons une expérience semi-supervisée avec une ressource de sémantique distributionnelle.</dc:description>
+<dc:publisher>Université Toulouse le Mirail - Toulouse II</dc:publisher>
+<dcterms:created>2013/12/17</dcterms:created>
+<dcterms:dateSubmitted>2014/04/16</dcterms:dateSubmitted>
+<dcterms:modified>2024/04/19</dcterms:modified>
+<dc:type>Thése</dc:type>
+<dc:format>PDF</dc:format>
+<dc:identifier>tel-00979681</dc:identifier>
+<dc:source>https://theses.hal.science/tel-00979681</dc:source>
+<dc:language>anglais</dc:language>
+<dc:coverage>anglais</dc:coverage>
+<dc:coverage>français</dc:coverage>
+<dc:rights>Public Domain</dc:rights>
+<dcterms:audience>public </dcterms:audience>
+
+</metadata>
