@@ -33,6 +33,8 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:source>https://www.ortolang.fr/market/tools/talismane-frantext-modern</dc:source>
 <dc:language>français</dc:language>
 <dcterms:isPartOf>https://theses.hal.science/tel-00979681</dcterms:isPartOf>
+<dc:relation>http://redac.univ-tlse2.fr/applications/talismane/talismane.html</dc:relation>
+<dcterms:hasVersion>Github</dcterms:hasVersion>
 <dc:coverage>français</dc:coverage>
 <dc:rights>Libre</dc:rights>
 <dcterms:audience>public</dcterms:audience>
