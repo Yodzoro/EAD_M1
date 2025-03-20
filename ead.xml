@@ -41,7 +41,7 @@
           <did>
            <unitid type="cote">PHAR-FRANC-01</unitid>
            <unittitle>Les Publications</unittitle>
-           <unitdate normal="1992/2017">21e siècle (date)</unitdate>
+           <unitdate normal="1992/2017">20e et 21e siècles (1992-2017)</unitdate>
           </did>
           <scopecontent>
           <p>Les publications depuis les débuts de la pharmaco-cinétique de population jusqu’à aujourd’hui </p>
@@ -67,7 +67,7 @@
         <did>
            <unitid type="cote">PHAR-FRANC-03</unitid>
            <unittitle>Les Manuels d'adaptation</unittitle>
-           <unitdate normal="2005/2025">21e siècle (date)</unitdate>
+           <unitdate normal="2005/2025">21e siècle (2005-2025)</unitdate>
         </did>
         <scopecontent>
           <p>Des documents issus du protocole de soin de l’adaptation de posologie. </p>
