@@ -36,6 +36,7 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:relation>http://redac.univ-tlse2.fr/applications/talismane/talismane.html</dc:relation>
 <dcterms:hasVersion>Github</dcterms:hasVersion>
 <dc:coverage>français</dc:coverage>
+<dc:coverage>anglais</dc:coverage>
 <dc:rights>Libre</dc:rights>
 <dcterms:audience>public</dcterms:audience>
 
