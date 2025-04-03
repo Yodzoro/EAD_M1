@@ -1,0 +1,109 @@
+@prefix ex: <http://moncatalogue.com/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix frbr: <http://purl.org/vocab/frbr/core#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+### Groupe 1: Œuvres et Expressions ###
+
+# Œuvre abstraite 2023
+ex:ISTEX_Publication_2023 rdf:type frbr:Work;
+    rdfs:label "Publications ISTEX 2023";
+    rdfs:comment "Les publications sur l'ISTEX en 2023." ;
+    dc:title "Le corpus « Machine Translation » : une exploration diachronique des (méta)données Istex" ;
+    dc:subject "Analyse de documents scientifiques, Visualisation des connaissances scientifiques" ;
+    dcterms:abstract "Le corpus Machine Translation se compose de publications scientifiques issues du réservoir Istex. Conçu comme un cas d'usage, il permet d'explorer l'histoire de la traduction automatique au travers des métadonnées et des textes intégraux disponibles pour chacun de ses documents." ;
+    dcterms:issued "2023-06-20"^^xsd:date ;
+    frbr:realizer ex:Equipe_ISTEX;  # Lien au Groupe 2
+    frbr:realization ex:Atelier_Analyse_Textes_Scientifiques;
+    skos:related ex:ISTEX_Publication_2024.
+
+# Expression 2023
+ex:Atelier_Analyse_Textes_Scientifiques rdf:type frbr:Expression;
+    rdfs:label "Atelier sur l'Analyse et la Recherche de Textes Scientifiques" ;
+    dcterms:creator ex:Florian_Boudin, ex:Beatrice_Daille, ex:Richard_Dufour; # Lien au Groupe 2
+    dcterms:date "2023-06-09"^^xsd:date ;
+    dcterms:description "Un atelier pour discuter de l'analyse des textes scientifiques, en lien avec les publications du corpus Machine Translation." ;
+    frbr:embodiment ex:Corpus_MT.
+
+# Œuvre abstraite 2024
+ex:ISTEX_Publication_2024 rdf:type frbr:Work;
+    rdfs:label "Publications ISTEX 2024";
+    rdfs:comment "Les publications sur l'ISTEX en 2024." ;
+    dc:title "La constitution et l'exploration d'un corpus documentaire à partir des ressources Istex" ;
+    dcterms:issued "2024-03-10"^^xsd:date ;
+    frbr:realizer ex:Equipe_ISTEX;  # Lien au Groupe 2
+    frbr:realization ex:CORPUS_fouille_Texte.
+
+# Expression 2024
+ex:CORPUS_fouille_Texte rdf:type frbr:Expression;
+    rdfs:label "Vers un corpus optimal pour la fouille de textes : stratégie de constitution de corpus spécialisés à partir d'ISTEX";
+    dcterms:creator ex:Camille_Salaber, ex:Sabine_Barreaux; # Lien au Groupe 2
+    dcterms:date "2020-06-08"^^xsd:date;
+    dcterms:description "Tirer parti de l'outil ISTEX pour la constitution d'un corpus homogène de publication scientifique." ;
+    frbr:embodiment ex:Corpus_MT, ex:Corpus_Neuro, ex:Corpus_Paleo.
+
+### Groupe 2: Personnes et Organisations ###
+
+ex:Equipe_ISTEX rdf:type foaf:Organization;
+    foaf:name "INIST-CNRS";
+    rdfs:label "L'équipe ISTEX du CNRS".
+
+ex:Florian_Boudin rdf:type foaf:Person;
+    foaf:name "Florian Boudin".
+
+ex:Beatrice_Daille rdf:type foaf:Person;
+    foaf:name "Béatrice Daille".
+
+ex:Richard_Dufour rdf:type foaf:Person;
+    foaf:name "Richard Dufour".
+
+ex:Camille_Salaber rdf:type foaf:Person;
+    foaf:name "Camille de Salaber".
+
+ex:Sabine_Barreaux rdf:type foaf:Person;
+    foaf:name "Sabine Barreaux".
+
+### Groupe 3: Manifestations et Items ###
+
+# Manifestations
+ex:Corpus_MT rdf:type frbr:Manifestation;
+    frbr:exemplar ex:Item_MT;  # Lien correct à l'Item
+    dc:title "Manifestation du corpus Machine Translation";
+    dcterms:identifier "MT-2023-001".
+
+ex:Corpus_Neuro rdf:type frbr:Manifestation;
+    frbr:exemplar ex:Item_Neuro;
+    dc:title "Manifestation du corpus Neurosciences";
+    dcterms:identifier "NEURO-2023-001".
+
+ex:Corpus_Paleo rdf:type frbr:Manifestation;
+    frbr:exemplar ex:Item_Paleo;
+    dc:title "Manifestation du corpus Paléoclimatologie";
+    dcterms:identifier "PALEO-2023-001".
+
+# Items (exemplaires physiques/numériques)
+ex:Item_MT rdf:type frbr:Item;
+    dc:title "Exemplaire numérique du corpus Machine Translation";
+    dcterms:identifier "MT-ITEM-001";
+    frbr:owner ex:Equipe_ISTEX.
+
+ex:Item_Neuro rdf:type frbr:Item;
+    dc:title "Exemplaire numérique du corpus Neurosciences";
+    dcterms:identifier "NEURO-ITEM-001";
+    frbr:owner ex:Equipe_ISTEX.
+
+ex:Item_Paleo rdf:type frbr:Item;
+    dc:title "Exemplaire numérique du corpus Paléoclimatologie";
+    dcterms:identifier "PALEO-ITEM-001";
+    frbr:owner ex:Equipe_ISTEX.
+
+### Outil ###
+ex:Outil_ISTEX rdf:type frbr:Tool;
+    dc:title "Plateforme ISTEX";
+    rdfs:label "Le socle de la bibliothèque scientifique numérique nationale";
+    frbr:maker ex:Equipe_ISTEX.
